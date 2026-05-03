@@ -2,7 +2,7 @@
   "createdAt": "2026-05-03T02:53:07.158256-07:00",
   "description": "",
   "id": "test_one",
-  "name": "Test One",
+  "name": "Test One Updated",
   "projectId": "gerkin-demo",
   "tags": [
     "smoke"
