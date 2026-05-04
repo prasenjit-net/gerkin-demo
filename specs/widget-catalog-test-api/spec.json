@@ -1,0 +1,26 @@
+{
+  "id": "widget-catalog-test-api",
+  "projectId": "gerkin-demo",
+  "name": "Widget Catalog Test API",
+  "fileName": "sample-openapi.yaml",
+  "format": "yaml",
+  "summary": {
+    "openapiVersion": "3.0.3",
+    "title": "Widget Catalog Test API",
+    "version": "1.0.0",
+    "description": "This specification is intentionally small and fully documented so it can be\nused as a deterministic fixture for testing OpenAPI upload, parsing, detail\ndisplay, and AI-assisted Gherkin generation workflows.\n\nThe API exposes exactly two operations:\n1. `GET /widgets` to list widgets with optional filtering.\n2. `POST /widgets` to create a new widget.\n\nAll examples, schemas, and responses are included to give the generator\nenough grounded context without making the fixture unnecessarily large.",
+    "servers": [
+      {
+        "url": "https://api.example.test",
+        "description": "Primary test server"
+      }
+    ],
+    "tags": [
+      "Widgets"
+    ],
+    "pathsCount": 1,
+    "operationsCount": 2
+  },
+  "createdAt": "2026-05-04T14:09:40.815574-07:00",
+  "updatedAt": "2026-05-04T14:09:40.815574-07:00"
+}

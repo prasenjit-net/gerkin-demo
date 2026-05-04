@@ -1,0 +1,11 @@
+{
+  "createdAt": "2026-05-04T14:10:38.843581-07:00",
+  "description": "Covers the happy path scenarios for creating a widget and then listing widgets to verify the creation. Assumes the API baseUrl is configured in karate-config.js. Does not cover error or edge cases as per user prompt.",
+  "id": "1777929038843577000",
+  "name": "Widget happy path",
+  "projectId": "gerkin-demo",
+  "tags": [
+    "happy"
+  ],
+  "updatedAt": "2026-05-04T15:57:16.301052-07:00"
+}
